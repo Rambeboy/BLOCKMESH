@@ -35,8 +35,8 @@ Before running the script, you need:
 
 1. A Linux-based operating system (Ubuntu recommended)
 2. Root/sudo privileges
-3. A BlockMesh account (Register [here](https://app.blockmesh.xyz/register?invite_code=Galkurta))
-4. Active internet connection
+3. A BlockMesh account [REGISTER](https://app.blockmesh.xyz)
+5. Active internet connection
 
 ---
 
@@ -63,18 +63,18 @@ The script shows real-time status of:
 If you encounter any issues:
 
 1. **Docker Installation Fails**
-   - Ensure your system is up to date
-   - Check internet connectivity
-   - Verify system compatibility
+- Ensure your system is up to date
+- Check internet connectivity
+- Verify system compatibility
 
 2. **Node Won't Start**
-   - Verify your credentials
-   - Check Docker service status
-   - Ensure ports are not in use
+- Verify your credentials
+- Check Docker service status
+- Ensure ports are not in use
 
 3. **Can't View Logs**
-   - Confirm node is running
-   - Check Docker permissions
+- Confirm node is running
+- Check Docker permissions
 
 ---
 
