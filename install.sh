@@ -5,9 +5,9 @@ SCRIPT_PATH="$INSTALL_DIR/install.sh"
 
 BANNER="
 ╔══════════════════════════════════════╗
-║           BlockMesh Node             ║
+║           BLOCKMESH NODE             ║
 ║         Installation Script          ║
-║          Author: Galkurta            ║
+║         Author: Nofan Rambe          ║
 ║           Version: 1.0.0             ║
 ╚══════════════════════════════════════╝
 "
