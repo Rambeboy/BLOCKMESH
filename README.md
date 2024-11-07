@@ -1,5 +1,7 @@
 ## BLOCKMESH NODE
 
+![blockmesh](assets/blockmesh.jpeg)
+
 This script automates the deployment process of a BlockMesh Node, making it easier to set up and manage your node.
 
 ---
