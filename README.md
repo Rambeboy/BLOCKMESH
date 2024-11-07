@@ -8,12 +8,12 @@ This script automates the deployment process of a BlockMesh Node, making it easi
 
 ## Quick Install
 
-Using curl:
+**Using curl:**
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Rambeboy/BLOCKMESH/main/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 
-Using wget:
+**Using wget:**
 ```bash
 wget https://raw.githubusercontent.com/Rambeboy/BlockMesh/main/install.sh && chmod +x install.sh && sudo ./install.sh
 ```
@@ -37,7 +37,7 @@ Before running the script, you need:
 
 1. A Linux-based operating system (Ubuntu recommended)
 2. Root/sudo privileges
-3. A BlockMesh account [REGISTER](https://app.blockmesh.xyz)
+3. A BlockMesh account [Register](https://app.blockmesh.xyz)
 5. Active internet connection
 
 ---
@@ -56,7 +56,7 @@ sudo ~/.blockmesh/install.sh
 The script shows real-time status of:
 - Docker installation
 - Docker Compose installation
-- BlockMesh node status (Running/Stopped/Not Deployed)
+- BlockMesh node status (Running/Stopped/NotDeployed)
 
 ---
 
