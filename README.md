@@ -1,6 +1,6 @@
 # BLOCKMESH NODE
 
-This script automates the deployment process of a BlockMesh node, making it easier to set up and manage your node.
+This script automates the deployment process of a BlockMesh Node, making it easier to set up and manage your node.
 
 ---
 
