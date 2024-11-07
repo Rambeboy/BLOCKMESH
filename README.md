@@ -1,20 +1,24 @@
-# BlockMesh Node Installation Script
+# BLOCKMESH NODE
 
 This script automates the deployment process of a BlockMesh node, making it easier to set up and manage your node.
 
-## ⚡ Quick Install
+---
+
+## Quick Install
 
 Using curl:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Galkurta/BlockMesh/main/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
+curl -fsSL https://raw.githubusercontent.com/Rambeboy/BLOCKMESH/main/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 
 Using wget:
 ```bash
-wget https://raw.githubusercontent.com/Galkurta/BlockMesh/main/install.sh && chmod +x install.sh && sudo ./install.sh
+wget https://raw.githubusercontent.com/Rambeboy/BlockMesh/main/install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 
-## 🚀 Features
+---
+
+## Features
 
 - Easy-to-use menu interface
 - Automatic Docker installation
@@ -23,7 +27,9 @@ wget https://raw.githubusercontent.com/Galkurta/BlockMesh/main/install.sh && chm
 - Log viewing capability
 - System status monitoring
 
-## 📋 Prerequisites
+---
+
+## Prerequisites
 
 Before running the script, you need:
 
@@ -32,21 +38,27 @@ Before running the script, you need:
 3. A BlockMesh account (Register [here](https://app.blockmesh.xyz/register?invite_code=Galkurta))
 4. Active internet connection
 
-## 🔧 After Installation
+---
+
+## After Installation
 
 Once installed, you can run the node manager anytime using:
 ```bash
 sudo ~/.blockmesh/install.sh
 ```
 
-## 📊 System Status
+---
+
+## System Status
 
 The script shows real-time status of:
 - Docker installation
 - Docker Compose installation
 - BlockMesh node status (Running/Stopped/Not Deployed)
 
-## 🛟 Troubleshooting
+---
+
+## Troubleshooting
 
 If you encounter any issues:
 
@@ -64,7 +76,9 @@ If you encounter any issues:
    - Confirm node is running
    - Check Docker permissions
 
-## 📁 File Structure
+---
+
+## File Structure
 
 ```
 ~/.blockmesh/
@@ -75,25 +89,35 @@ If you encounter any issues:
         └── blockmesh-cli # Executable
 ```
 
-## 🔐 Security Note
+---
+
+## Security Note
 
 - The script requires root privileges
 - Credentials are stored securely in the container environment
 - No sensitive data is stored on disk
 
-## 🤝 Contributing
+---
+
+## Contributing
 
 Feel free to submit issues and enhancement requests!
 
-## 📜 License
+---
+
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## ⚠️ Disclaimer
+---
+
+## Disclaimer
 
 This is an unofficial installation script. Please use at your own discretion and always verify the source before running scripts with root privileges.
 
-## 💪 Support
+---
+
+## Support
 
 If you need help or have questions:
 1. Check the [BlockMesh Documentation](https://docs.blockmesh.xyz)
@@ -101,4 +125,3 @@ If you need help or have questions:
 3. Submit an issue in this repository
 
 ---
-Created with ❤️ for the BlockMesh Community
