@@ -1,5 +1,4 @@
-
-## BlockMesh Network Node
+## BLOCKMESH NETWORK NODE
 
 ![Blockmesh](assets/img1.png)
 
@@ -27,6 +26,6 @@ if you want to use screen then , create screen session first and execute that co
 
 You can also install blockmesh node extension to run blockmesh on your browser
 
-Link : https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp
+Link : [Download](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
 
 ---
