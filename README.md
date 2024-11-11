@@ -2,7 +2,7 @@
 
 ![Blockmesh](assets/img1.png)
 
-BlockMesh Network allows you to generate passive income from your excessive bandwidth
+BlockMesh Network allows you to generate passive income from your excessive bandwidth.
 
 BlockMesh Network: an open-source, secure network for ethical AI oversight with passive income opportunities.
 
@@ -24,7 +24,7 @@ if you want to use screen then , create screen session first and execute that co
 
 ## Blockmesh Browser Extension
 
-You can also install blockmesh node extension to run blockmesh on your browser
+You can also install Blockmesh Node Extension to run Blockmesh on your browser.
 
 Link : [Download](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
 
