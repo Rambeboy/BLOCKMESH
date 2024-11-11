@@ -6,7 +6,7 @@ GREENCOLOR="\e[32m"
 DEFAULTCOLOR="\e[0m"
 
 setup() {
-    curl -s https://raw.githubusercontent.com/Rambeboy/BLOCKMESH/refs/heads/main/Banner.sh | bash
+    curl -s https://raw.githubusercontent.com/Rambeboy/Rambeboy/refs/heads/main/ShowLogo.sh | bash
     sleep 3
 
     echo "Updating & Upgrading Packages..."
