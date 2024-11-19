@@ -11,7 +11,7 @@ Experience the forefront of blockchain, open-source collaboration, and AI accoun
 
 ---
 
-### BLOCKMESH CLI NODE SETUP GUIDE
+## BLOCKMESH CLI NODE SETUP GUIDE
 
 Run this to setup your Blockmesh Node
 ```
@@ -23,7 +23,7 @@ if you want to use screen then , create screen session first and execute that co
 
 ---
 
-### BLOCLMESH BROWSER EXTENSION
+## BLOCLMESH BROWSER EXTENSION
 
 You can also install Blockmesh Node Extension to run Blockmesh on your browser.
 
